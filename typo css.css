@@ -1,0 +1,19 @@
+body{
+    padding: 25%;
+    font-size: 2rem;
+    color: violet;
+
+}
+p{
+    text-decoration: none;
+    text-transform: capitalize;
+    text-align: justify;
+    text-indent: 100px;
+    letter-spacing: 10px;
+    font-style: oblique;
+    font-family: cursive;
+
+}
+input,button{
+    font: inherit;
+}
